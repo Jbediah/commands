@@ -102,3 +102,45 @@ The grep command in Linux searches through a specified file and prints all lines
 ```
 $grep [Options] [Pattern] [Filename]
 ```
+
+
+- **head** :
+The head command in Linux prints the first N lines of a given file content. Yes, it's that simple.
+**Syntax**
+```
+$head [Option] [Filename]
+```
+
+
+- **grep** :
+The grep command in Linux searches through a specified file and prints all lines that match a given pattern.
+**Syntax**
+```
+$grep [Options] [Pattern] [Filename]
+```
+
+
+- **tail** :
+The tail command in Linux prints the last N lines of a given file content. Yes, it's that simple.
+**Syntax**
+```
+$tail [Option] [Filename]
+```
+
+
+
+- **wc** :
+The wc command in Linux expands to 'word count'. It is used to display the number of lines, words, characters, and bytes corresponding to any file mentioned in the arguments.
+**Syntax**
+```
+$wc [Option].. [File]..
+```
+
+
+
+- **history** :
+The history command in Linux is used to view a history of all the commands previously executed inside the bash terminal. The total number of executed commands will vary from one system to another.
+**Syntax**
+```
+$ history
+```
